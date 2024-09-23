@@ -28,4 +28,5 @@ With a WYSIWYM, you're looking at and editing the **code** that will...
 
 Markdown is the markup language that this document is written in! Markdown is common with websites, and it's very easy to use here in GitHub. Today, we'll learn about using Markdown while also practicing the GitHub workflow (branches, pulls, commits).
 
-1. Go to <a href="https://learn.microsoft.com/en-us/training/" 
+1. Go to <a href="https://learn.microsoft.com/en-us/training/" target="_blank" rel="noreferrer noopener">learn.microsoft.com</a>.
+2. 
