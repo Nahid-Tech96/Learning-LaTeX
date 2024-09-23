@@ -13,6 +13,19 @@ This can ensure similar quality between displaying text on different screens, di
 
 ### Coding instead of Clicking
 
-A
+If you've ever worked with Microsoft Word or Google Docs, then you have experience with a "What You See is What You Get" (WYSIWYG) type system. You interact with the Graphical User Interface (GUI) to make styles and then what you see on the screen is what your document looks like. For example: you highlight text and then click "Bold" (or hit Ctrl+B) to make the text bold; you press enter to get a new line, or you might hit tab a few times to move something over horizontally.
+
+WYSIWYG instill *bad habits* 😳 Using multiple tabs instead of declaring tab stops, using multiple new lines instead of a new page, etc. These might not seem like a big deal if your document is only ever on your machine, but if you send that document to a colleague (especially one on a different OS), try to upload it to Blackboard or another site, or try to look at it on your phone, the document might look a bit... off. Therefore, if we're working on multiple devices or online, we may want to switch over to a "What You See is What You Mean" (WYSIWYM) type system.
+
+With a WYSIWYM, you're looking at and editing the **code** that will eventually be made into the document you're working on. So instead of clicking things to make them bold, you type code. Instead of hitting enter a bunch of times, you hit it once for a new line and trust the system to space it nicely. Every now and then you hit "Preview" or compile your code to double-check what it looks like, and then you keep going.
+
+For example: 
+```
+With a WYSIWYM, you're looking at and editing the **code** that will...
+```
 
 ## What is Mardown?
+
+Markdown is the markup language that this document is written in! Markdown is common with websites, and it's very easy to use here in GitHub. Today, we'll learn about using Markdown while also practicing the GitHub workflow (branches, pulls, commits).
+
+1. Go to <a href="https://learn.microsoft.com/en-us/training/" 
