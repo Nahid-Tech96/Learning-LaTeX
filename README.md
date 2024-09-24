@@ -28,4 +28,4 @@ LaTeX is a typesetting system that uses code to produce high-quality scientific/
 
 - This README
 - A clone of [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/weblatex), including the WebLaTexREADME and demo.tex
-- Exercises and solutions from Overleaf's [Free Online Introduction to LaTeX](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1))
+- Exercises and solutions from Overleaf's [Free Online Introduction to LaTeX](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)), also available on [GitHub](https://github.com/jdleesmiller/latex-course/)
