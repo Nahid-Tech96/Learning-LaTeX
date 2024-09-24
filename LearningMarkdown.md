@@ -2,6 +2,8 @@
 
 Both LaTeX and Markdown are examples of markup language. Today, we'll be learning how to use Markdown, an easy programming language that helps make clean formatting on multiple platforms.
 
+![TechTaco](https://avatars.githubusercontent.com/u/145585316?s=48&v=4)
+
 ## What is Markup?
 
 A markup language is a system that uses *tags* to define and annotate the structure and presentation of a document. These tags can include anything from simple **emphasis** to making headings and lists to inserting extras like links or pictures.
@@ -28,5 +30,12 @@ With a WYSIWYM, you're looking at and editing the **code** that will...
 
 Markdown is the markup language that this document is written in! Markdown is common with websites, and it's very easy to use here in GitHub. Today, we'll learn about using Markdown while also practicing the GitHub workflow (branches, pulls, commits).
 
+#### Today's Activity
+
 1. Go to <a href="https://learn.microsoft.com/en-us/training/" target="_blank" rel="noreferrer noopener">learn.microsoft.com</a>.
-2. 
+2. Search for "markdown"
+3. Click "Communicate effectively on GitHub using Markdown - Training"
+4. Read through the Learning Objectives
+5. Scroll down and click "Exercise - Communicate using Markdown"
+6. This will take you to GitHub. Right click "Start Course" and clone the repo.
+7. Make sure to keep one tab open to the Readme page of your cloned repo and one in which you do the exercise.
