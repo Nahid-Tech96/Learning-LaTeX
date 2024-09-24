@@ -23,3 +23,9 @@ LaTeX is a typesetting system that uses code to produce high-quality scientific/
 10. Beamer
 11. Drawing graphics with TikZ
 12. Other Neat Stuff & Conclusion
+
+## Repo Contents
+
+- This README
+- A clone of [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/weblatex), including the WebLaTexREADME and demo.tex
+- Exercises and solutions from Overleaf's [Free Online Introduction to LaTeX](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1))
